@@ -82,7 +82,7 @@
       }, 
       "active": {
         "dest": "active",
-        "moniker_range": ">= test-client-2.0 || test-server-1.0 || test-server-2.0"
+        "moniker_range": ">= test-client-2.0 || >=test-server-1.0"
       }
     }
   }
