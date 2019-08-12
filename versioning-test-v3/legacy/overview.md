@@ -1,3 +1,7 @@
+---
+uid: a
+title: legacy title for a
+---
 # Overview (Legacy)!
 
 Welcome to the overview page! Please enjoy this overview.
