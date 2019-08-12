@@ -1,6 +1,6 @@
 ---
 uid: b
-name: quick start 1
+title: quick start 1
 monikerRange: 'test-client-2.0 || test-server-1.0'
 ---
 
