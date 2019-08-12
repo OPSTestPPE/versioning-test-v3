@@ -1,4 +1,6 @@
 ---
+uid: a
+title: active title for a
 monikerRange: 'test-client-2.0 || test-client-2.0 || test-server-2.0'
 ---
 
