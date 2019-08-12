@@ -1,6 +1,6 @@
 ---
 uid: a
-title: legacy title for a
+title: title for a
 ---
 # Overview (Legacy)!
 
