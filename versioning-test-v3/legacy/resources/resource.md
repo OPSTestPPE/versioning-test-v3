@@ -1,3 +1,7 @@
+---
+title: Resource (Legacy)!
+author: opstest2
+---
 
 # Resource (Legacy)!
 
