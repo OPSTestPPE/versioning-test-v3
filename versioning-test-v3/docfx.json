@@ -16,8 +16,8 @@
           "LICENSE-CODE",
           "ThirdPartyNotices"
         ],
-        "group": "legacy",
-        "src": "legacy"
+        "src": "legacy",
+        "group": "legacy"
       },
       {
         "files": [
@@ -34,8 +34,8 @@
           "LICENSE-CODE",
           "ThirdPartyNotices"
         ],
-        "group": "active",
-        "src": "active"
+        "src": "active",
+        "group": "active"
       }
     ],
     "resource": [
@@ -71,7 +71,16 @@
     "overwrite": [],
     "externalReference": [],
     "globalMetadata": {},
-    "fileMetadata": {},
+    "fileMetadata": {
+      "exclude_monikers": {
+        "legacy/resources/resource.md": [
+          "test-client-1.0"
+        ],
+        "legacy/fallback.md": [
+          "test-client-1.0"
+        ]
+      }
+    },
     "template": [],
     "dest": "versioning-test-v3",
     "markdownEngineName": "markdig",
@@ -79,7 +88,7 @@
       "legacy": {
         "dest": "legacy",
         "moniker_range": "< test-client-2.0"
-      }, 
+      },
       "active": {
         "dest": "active",
         "moniker_range": ">= test-client-2.0 || test-server-1.0 || test-server-2.0"
