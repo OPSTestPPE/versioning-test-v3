@@ -1,0 +1,20 @@
+{
+  "redirections": [
+    {
+      "source_path": "versioning-test-v3/legacy/resources/resource.md",
+      "redirect_url": "/archive/versioning-test-v3-archive/resources/resource",
+      "redirect_document_id": false,
+      "monikers": [
+        "test-client-1.0"
+      ]
+    },
+    {
+      "source_path": "versioning-test-v3/legacy/fallback.md",
+      "redirect_url": "/archive/versioning-test-v3-archive/fallback",
+      "redirect_document_id": false,
+      "monikers": [
+        "test-client-1.0"
+      ]
+    }
+  ]
+}
